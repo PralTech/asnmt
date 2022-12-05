@@ -2,7 +2,7 @@ import React from 'react'
 import './Page.css'
 import img1 from '../Images/img1.png'
 import img2 from '../Images/img2.png'
-import img3 from '../Images/img3.png'
+
 
 
 const Page = () => {

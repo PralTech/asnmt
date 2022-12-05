@@ -7,10 +7,12 @@ import Bottom from './Components/Bottom/Bottom';
 function App() {
   return (
     <div className='App'>
-    <Header/>
-    <Page/>
-    <Bottom/>
-    <Footer/>
+      {/* <div className="container"> */}
+        <Header />
+        <Page />
+        <Bottom />
+        <Footer />
+      {/* </div> */}
     </div>
   );
 }
