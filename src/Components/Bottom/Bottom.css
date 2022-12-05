@@ -1,0 +1,28 @@
+
+.bottom h4{
+    text-align: center;
+}
+.bottom img{
+    gap: 0;
+    width: 100%;
+    align-items: center;
+    transform: scale(0.80);
+    justify-content: center;
+    margin-top: -3rem;
+}
+.bottom :nth-child(3){
+    margin-top: -3rem;
+    text-align: center;
+    font-size: 12px;
+}
+.bottom  :nth-child(6){
+    text-align: center;
+    font-weight: 600px;
+}
+.bottom span{
+    color: red;
+}
+.bottom{
+    font-size: 14px;
+    font-weight: 600;
+}

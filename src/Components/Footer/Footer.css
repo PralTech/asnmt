@@ -1,0 +1,60 @@
+.footer{
+    display: flex;
+    align-items: center;
+    height: 6rem;
+    margin-bottom: 0;
+    background: rgb(246, 55, 55); 
+    border: 8  px solid white; 
+    border-left: 0.5rem solid  #f0e6cb;
+    border-right: 0.5rem solid  #f0e6cb;
+
+}
+.f-icons{
+    display: flex;
+    flex: 100%;
+    justify-content: space-around;
+    color: white;
+    width: 100vh;
+
+}
+.call{
+    gap: 0.5rem;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.call :nth-child(1){
+    color: white;
+    border-radius: 100%;
+   
+}
+.facebook{
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+}
+.facebook span{
+    color: white;
+}
+.facebook a{
+    text-decoration: none;
+}
+.browser{
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+}
+.browser span{
+    color: white;
+}
+.browser a{
+    text-decoration: none;
+}
+
+
+
+
+
